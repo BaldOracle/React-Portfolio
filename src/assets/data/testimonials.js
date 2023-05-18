@@ -1,7 +1,7 @@
 const testimonials = [
   {
     id: 1,
-    name: '',
+    name: 'Coming Soon!!!',
     title: '',
     org: '',
     desc:
@@ -9,4 +9,4 @@ const testimonials = [
   }
   
 ];
-//export default testimonials;
+export default testimonials;
